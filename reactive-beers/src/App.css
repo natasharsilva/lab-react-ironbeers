@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+}
+
+.Card {
+  margin: 10px;
+  width: 400px;
+}
+
+.Card img {
+  height: 200px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.beerCard {
+  margin: 10px;
+  width: 500px;
+}
+
+.beerCard img {
+  width: 80px;
+}
